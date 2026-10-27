@@ -16,7 +16,7 @@ A Discord message workspace with a visual webhook editor and live previews.
 
 The codebase includes reusable message components, local draft persistence, JSON editing, account authentication, and a dashboard for bot messages and scheduling. Built with **Next.js, React, TypeScript, Zustand, and PostgreSQL**, with regression tests and CI.
 
-[Live application](https://www.meowhook.com/)
+[Live application](https://www.meowhook.com/) · [Source code](https://github.com/rostha/meowhook)
 
 ### Desktop applications
 
